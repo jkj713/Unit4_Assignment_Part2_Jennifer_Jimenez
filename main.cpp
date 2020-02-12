@@ -2,6 +2,7 @@
 Jennifer Jimenez
 Dr_T
 Unit 4 Part 2
+Adding Hello while counting numbers
 */
 
 #include <iostream>
